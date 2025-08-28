@@ -119,7 +119,7 @@ Backend: Node.js, Express.js, MongoDB (Mongoose), JWT, dotenv.
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone --------------------------------------------------------------------------
+git clone https://github.com/mohinigehlod/youtubeClone/tree/main/youtube-clone-internshala-main/youtube-clone-internshala-main
 cd youtube-clone-internshala
 
 2️⃣ Setup Backend
